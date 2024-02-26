@@ -13,7 +13,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Gurgao
 
   <br />
   
-![](https://visitor-badge.glitch.me/badge?page_id=PriontoAbdullah.PriontoAbdullah)
 ![age](https://img.shields.io/badge/age-30-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-India-ff69b4)

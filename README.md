@@ -7,7 +7,7 @@
 
 <div align="left">
 
-<a href="https://app.daily.dev/prionto"><img src="https://api.daily.dev/devcards/df2d5c9fa7ce4e579ee972f740144dec.png?r=y3h" width="25%" align="right" alt="Prionto Adbullah's Dev Card"/></a>
+<a href="https://app.daily.dev/prionto"><img src="https://api.daily.dev/devcards/v2/sjPD4p8OHg9TuAptM4RJJ.png?r=cw4&type=default" width="25%" align="right" alt="Akshay Almadi's Dev Card"/></a>
 
 A self-taught, passionate and fast-learner full-stack developer 🎯 from Gurgaon, India 🌎. Now I am working as a frontend engineer at Gomechanic.in 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web and mobile app 🚀. 
 
@@ -16,7 +16,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Gurgao
 ![](https://visitor-badge.glitch.me/badge?page_id=PriontoAbdullah.PriontoAbdullah)
 ![age](https://img.shields.io/badge/age-30-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![living](https://img.shields.io/badge/living-Dhaka-ff69b4)
+![living](https://img.shields.io/badge/living-India-ff69b4)
 ![projects](https://img.shields.io/badge/projects-38-important)
 
   <br />

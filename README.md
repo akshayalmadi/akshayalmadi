@@ -26,7 +26,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Gurgao
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
 - 🥅 2022 Goals: Master React Native. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1M2yd65sd8WWx8D0NLCI-LJjUiKyYaMkX/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1jpABbOqMTeWFbVjehSUgw1Maf4_sYakq/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
   
  </div>
 

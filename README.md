@@ -23,7 +23,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Gurgao
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I’m currently learning React Query, GraphQL and React-Native.
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
-- 🥅 2022 Goals: Master React Native. Contribute to Open Source projects.
+- 🥅 2024 Goals: Master React Native. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
 - 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1jpABbOqMTeWFbVjehSUgw1Maf4_sYakq/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
   

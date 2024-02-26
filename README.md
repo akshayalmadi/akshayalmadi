@@ -7,7 +7,7 @@
 
 <div align="left">
 
-<a href="https://app.daily.dev/prionto"><img src="https://api.daily.dev/devcards/v2/sjPD4p8OHg9TuAptM4RJJ.png?r=cw4&type=default" width="25%" align="right" alt="Akshay Almadi's Dev Card"/></a>
+<a href="https://app.daily.dev/akshayalmadi"><img src="https://api.daily.dev/devcards/v2/sjPD4p8OHg9TuAptM4RJJ.png?r=cw4&type=default" width="25%" align="right" alt="Akshay Almadi's Dev Card"/></a>
 
 A self-taught, passionate and fast-learner full-stack developer 🎯 from Gurgaon, India 🌎. Now I am working as a frontend engineer at Gomechanic.in 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web and mobile app 🚀. 
 
@@ -116,10 +116,10 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Gurgao
 ## Show some ❤️ by starring ⭐ some of the repositories!
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://prionto-71.web.app/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=prionto71@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/prionto-abdullah/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=almadiakshay6@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/akshay-almadi-58b01b91/)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://prionto71.medium.com/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/prionto.abdullah.71/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/akshay.almadi/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prionto_abdullah/)
 
 </div>
